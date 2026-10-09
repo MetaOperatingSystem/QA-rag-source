@@ -17,7 +17,7 @@ this archive is the reproducible code + data-construction + evaluation suite.
 |---|--------|-------------|-------|
 | 1 | Yanchun Kong (孔艳春) | College of Architectural Engineering, Kunming Metallurgy University, Kunming 650033, Yunnan, China | [0000-0002-9827-7432](https://orcid.org/0000-0002-9827-7432) |
 | 2 | Guiwen Zhao (赵贵文) | College of Mathematics and Computer Science, Dali University, Dali 671003, Yunnan, China | — |
-| 3 | Donglian Liu (刘东莲) | College of Architectural Engineering, Kunming Metallurgy University, Kunming 650033, Yunnan, China | — |
+| 3 | Donglian Liu (刘冬莲) | College of Architectural Engineering, Kunming Metallurgy University, Kunming 650033, Yunnan, China | — |
 | 4 | Weibin Su (苏为斌)\* | College of Mathematics and Computer Science, Dali University, Dali 671003, Yunnan, China | [0000-0002-3433-4848](https://orcid.org/0000-0002-3433-4848) |
 
 \* **Corresponding author**: Weibin Su — **swb@dali.edu.cn**
