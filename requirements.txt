@@ -1,0 +1,19 @@
+# Core RAG pipeline (required)
+PyMuPDF>=1.23          # fitz  — scanned/text-PDF text extraction
+python-docx>=1.1       # .docx ingestion
+openpyxl>=3.1          # .xlsx ingestion
+pandas>=2.0            # .csv / .xls ingestion
+xlrd>=2.0              # .xls fallback (optional)
+
+# Feishu group-chat bot (required only for the Feishu deployment stage)
+lark-oapi>=1.4         # WebSocket long-connection bot (tools/feishu_bot.py)
+
+# Figures / paper reproduction (optional; only for regenerating figures)
+matplotlib>=3.7
+numpy>=1.24
+
+# Image recognition (OCR): macOS only.
+#   ocr.swift uses Apple's Vision framework and is compiled with the Swift
+#   toolchain (swiftc, part of Xcode Command Line Tools). No pip package.
+#   On non-macOS hosts, supply a scanned-PDF text layer via any OCR tool and
+#   pass the resulting <name>_全文.txt to ingest.py with --type txt.

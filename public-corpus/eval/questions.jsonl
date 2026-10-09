@@ -1,0 +1,74 @@
+{"qid": "R01", "stratum": "routine", "source": "gov", "question": "职工和单位住房公积金的缴存比例不得低于多少？", "anchor": "缴存比例均不得低于职工上一年度月平均工资的5%", "answer_keys": ["5%"], "note": "住房公积金管理条例"}
+{"qid": "R02", "stratum": "routine", "source": "gov", "question": "农业生产经营单位在全国农业普查中有违法行为的，最高可以处多少罚款？", "anchor": "农业生产经营单位有前款所列行为之一的", "answer_keys": ["10万元"], "note": "全国农业普查条例"}
+{"qid": "R03", "stratum": "routine", "source": "gov", "question": "《老年教育发展规划》提出以各种形式经常性参与教育活动的老年人占老年人口总数的比例要达到多少以上？", "anchor": "经常性参与教育活动的老年人占老年人口总数的比例达到20%以上", "answer_keys": ["20%"], "note": "老年教育发展规划"}
+{"qid": "R04", "stratum": "routine", "source": "gov", "question": "教育领域中央与地方财政事权划分中，第一档、第二档中央财政分担比例分别提高到多少？", "anchor": "第一档、第二档中央财政分担比例由50%分别提高至80%、60%", "answer_keys": ["80%", "60%"], "note": "教育领域央地财政事权"}
+{"qid": "R05", "stratum": "routine", "source": "gov", "question": "'十四五'特殊教育发展提升行动计划中，20万人口以下的县（市、区、旗）应如何配置特殊教育资源？", "anchor": "20万人口以下的县（市、区、旗）要因地制宜合理配置特殊教育资源", "answer_keys": ["特教班", "九年一贯制", "寄宿制"], "note": "特殊教育计划"}
+{"qid": "R06", "stratum": "routine", "source": "gov", "question": "《教育发展'十五五'规划》提出'双一流'高校本科招生数要增加多少人以上？", "anchor": "本科招生数增加10万人以上", "answer_keys": ["10万人"], "note": "教育十五五规划"}
+{"qid": "R07", "stratum": "routine", "source": "gov", "question": "《关于逐步推行免费学前教育的意见》规定第一档地区中央财政分担多少？", "anchor": "第一档中央财政分担80%", "answer_keys": ["80%"], "note": "免费学前教育意见"}
+{"qid": "R08", "stratum": "routine", "source": "gov", "question": "《关于深入推进义务教育均衡发展的意见》提出到2020年全国义务教育巩固率达到多少？", "anchor": "到2020年，全国义务教育巩固率达到95%", "answer_keys": ["95%"], "note": "义务教育均衡意见"}
+{"qid": "R09", "stratum": "routine", "source": "gov", "question": "供水条例中，拒不改正或者情节严重的，对单位处多少罚款？", "anchor": "对单位处5万元以上50万元以下的罚款，对个人处1万元以上5万元以下的罚款", "answer_keys": ["5万", "50万"], "note": "供水条例"}
+{"qid": "R10", "stratum": "routine", "source": "gov", "question": "电力安全事故中发生一般事故的，对事故责任单位处多少罚款？", "anchor": "发生一般事故的，处30万元以上100万元以下的罚款", "answer_keys": ["30万", "100万"], "note": "电力安全事故条例"}
+{"qid": "R11", "stratum": "routine", "source": "gov", "question": "部属师范大学免费师范生自主招生人数不超过年度招生计划的百分之几？", "anchor": "自主招生人数不超过年度免费师范生招生计划的10%", "answer_keys": ["10%"], "note": "免费师范生"}
+{"qid": "R12", "stratum": "routine", "source": "gov", "question": "《矿产资源法实施条例》中情节严重的违法行为处多少罚款？", "anchor": "情节严重的，处10万元以上50万元以下的罚款", "answer_keys": ["10万", "50万"], "note": "矿产资源法实施条例"}
+{"qid": "R13", "stratum": "routine", "source": "gov", "question": "《商事调解条例》中调解组织拒不改正的如何处罚？", "anchor": "责令停业整顿，可以并处1万元以上5万元以下的罚款", "answer_keys": ["1万", "5万"], "note": "商事调解条例"}
+{"qid": "R14", "stratum": "routine", "source": "gov", "question": "国务院关于修改《住房公积金管理条例》的决定中，原第三十七条改为第三十九条后罚款额度调整为多少？", "anchor": "将第三十七条改为第三十九条", "answer_keys": ["5万", "30万"], "note": "住房公积金条例修改"}
+{"qid": "R15", "stratum": "routine", "source": "gov", "question": "中央企业职工家属区分离移交费用由中央财政补助多少？", "anchor": "分离移交费用由中央财政（国有资本经营预算）补助50%", "answer_keys": ["50%"], "note": "三供一业分离移交"}
+{"qid": "R16", "stratum": "routine", "source": "stats", "question": "2025年全国房地产开发投资是多少亿元？", "anchor": "82788", "answer_keys": ["82788"], "note": "2025统计公报表8"}
+{"qid": "R17", "stratum": "routine", "source": "stats", "question": "2025年铁路货物运输总量是多少亿吨？", "anchor": "52.8", "answer_keys": ["52.8"], "note": "2025统计公报表20"}
+{"qid": "R18", "stratum": "routine", "source": "stats", "question": "2025年房屋新开工面积比上年下降百分之几？", "anchor": "58770", "answer_keys": ["20.4"], "note": "2025统计公报表8"}
+{"qid": "R19", "stratum": "routine", "source": "stats", "question": "2025年货物运输总量是多少亿吨？", "anchor": "596.7", "answer_keys": ["596.7"], "note": "2025统计公报表20"}
+{"qid": "R20", "stratum": "routine", "source": "stats", "question": "2025年民航货物运输量是多少万吨，比上年增长多少？", "anchor": "1017.2", "answer_keys": ["1017.2", "13.3"], "note": "2025统计公报表20"}
+{"qid": "R21", "stratum": "routine", "source": "book", "question": "《三国演义》第二回中谁怒鞭督邮？", "anchor": "张翼德怒鞭督邮", "answer_keys": ["张飞", "张翼德"], "note": "三国演义"}
+{"qid": "R22", "stratum": "routine", "source": "book", "question": "《水浒传》中鲁提辖在哪里拳打镇关西？", "anchor": "鲁提辖拳打镇关西", "answer_keys": ["渭州"], "note": "水浒传第三回"}
+{"qid": "R23", "stratum": "routine", "source": "book", "question": "《西游记》第一回的回目是什么？", "anchor": "灵根育孕源流出", "answer_keys": ["灵根育孕源流出", "心性修持大道生"], "note": "西游记第一回"}
+{"qid": "R24", "stratum": "routine", "source": "book", "question": "《水浒传》第一回中洪太尉误走了什么？", "anchor": "洪太尉误走妖魔", "answer_keys": ["妖魔"], "note": "水浒传第一回"}
+{"qid": "R25", "stratum": "routine", "source": "book", "question": "《三国演义》开篇刘、关、张三人结义发生在什么地方？", "anchor": "宴桃园豪杰三结义", "answer_keys": ["桃园"], "note": "三国演义第一回回目"}
+{"qid": "R26", "stratum": "routine", "source": "book", "question": "《三国演义》第三回中李肃用什么说服了吕布？", "anchor": "馈金珠李肃说吕布", "answer_keys": ["金珠", "赤兔"], "note": "三国演义第三回"}
+{"qid": "R27", "stratum": "routine", "source": "book", "question": "《封神演义》第一回纣王到哪里进香？", "anchor": "纣王女娲宫进香", "answer_keys": ["女娲宫"], "note": "封神演义第一回"}
+{"qid": "R28", "stratum": "routine", "source": "book", "question": "《聊斋志异》卷一的第一篇是什么？", "anchor": "卷一 考城隍", "answer_keys": ["考城隍"], "note": "聊斋志异卷一"}
+{"qid": "R29", "stratum": "routine", "source": "book", "question": "《西游记》第二回孙悟空从谁那里学艺？", "anchor": "悟彻菩提真妙理", "answer_keys": ["菩提"], "note": "西游记第二回"}
+{"qid": "P01", "stratum": "paraphrased", "source": "gov", "question": "公积金每个月单位和个人最少要按上年月均工资的几个点缴？", "anchor": "缴存比例均不得低于职工上一年度月平均工资的5%", "answer_keys": ["5%"], "note": "R01 复述"}
+{"qid": "P02", "stratum": "paraphrased", "source": "stats", "question": "2025年咱们国家房地产开发总共投了多少钱（亿元）？", "anchor": "82788", "answer_keys": ["82788"], "note": "R16 复述"}
+{"qid": "P03", "stratum": "paraphrased", "source": "gov", "question": "农业普查的时候单位作假，最多能被罚多少钱？", "anchor": "农业生产经营单位有前款所列行为之一的", "answer_keys": ["10万元"], "note": "R02 复述"}
+{"qid": "P04", "stratum": "paraphrased", "source": "gov", "question": "供水出了问题还死不整改的单位，要被罚多少钱？", "anchor": "对单位处5万元以上50万元以下的罚款，对个人处1万元以上5万元以下的罚款", "answer_keys": ["5万", "50万"], "note": "R09 复述"}
+{"qid": "P05", "stratum": "paraphrased", "source": "gov", "question": "电力出了个一般事故，公司要被罚多少？", "anchor": "发生一般事故的，处30万元以上100万元以下的罚款", "answer_keys": ["30万", "100万"], "note": "R10 复述"}
+{"qid": "P06", "stratum": "paraphrased", "source": "gov", "question": "免费上幼儿园的钱，第一档那些省份中央出多少？", "anchor": "第一档中央财政分担80%", "answer_keys": ["80%"], "note": "R07 复述"}
+{"qid": "P07", "stratum": "paraphrased", "source": "gov", "question": "义务教育要到2020年巩固率保持在百分之几？", "anchor": "到2020年，全国义务教育巩固率达到95%", "answer_keys": ["95%"], "note": "R08 复述"}
+{"qid": "P08", "stratum": "paraphrased", "source": "gov", "question": "免费师范生的学校自己招生的比例最多占计划的一成吗？", "anchor": "自主招生人数不超过年度免费师范生招生计划的10%", "answer_keys": ["10%"], "note": "R11 复述"}
+{"qid": "P09", "stratum": "paraphrased", "source": "book", "question": "《三国演义》里把督邮揍了一顿的是谁？", "anchor": "张翼德怒鞭督邮", "answer_keys": ["张飞", "张翼德"], "note": "R21 复述"}
+{"qid": "P10", "stratum": "paraphrased", "source": "book", "question": "鲁智深打镇关西那个事发生在哪个州府？", "anchor": "鲁提辖拳打镇关西", "answer_keys": ["渭州"], "note": "R22 复述"}
+{"qid": "P11", "stratum": "paraphrased", "source": "book", "question": "《水浒传》开头洪太尉放跑的到底是什么东西？", "anchor": "洪太尉误走妖魔", "answer_keys": ["妖魔"], "note": "R24 复述"}
+{"qid": "P12", "stratum": "paraphrased", "source": "book", "question": "纣王去哪个宫烧香惹出了祸事？", "anchor": "纣王女娲宫进香", "answer_keys": ["女娲宫"], "note": "R27 复述"}
+{"qid": "P13", "stratum": "paraphrased", "source": "stats", "question": "2025年铁路一共运了多少亿吨的货？", "anchor": "52.8", "answer_keys": ["52.8"], "note": "R17 复述"}
+{"qid": "P14", "stratum": "paraphrased", "source": "stats", "question": "2025年新开工的房子比上一年少了两成还多吗？具体降了多少？", "anchor": "58770", "answer_keys": ["20.4"], "note": "R18 复述"}
+{"qid": "P15", "stratum": "paraphrased", "source": "book", "question": "《西游记》里教孙悟空本事的祖师是谁？", "anchor": "悟彻菩提真妙理", "answer_keys": ["菩提"], "note": "R29 复述"}
+{"qid": "P16", "stratum": "paraphrased", "source": "gov", "question": "老年大学那类教育活动，规划要求多大比例的老年人经常参加？", "anchor": "经常性参与教育活动的老年人占老年人口总数的比例达到20%以上", "answer_keys": ["20%"], "note": "R03 复述"}
+{"qid": "P17", "stratum": "paraphrased", "source": "gov", "question": "人口不到20万的小县，特殊教育怎么安排？", "anchor": "20万人口以下的县（市、区、旗）要因地制宜合理配置特殊教育资源", "answer_keys": ["特教班", "寄宿制"], "note": "R05 复述"}
+{"qid": "P18", "stratum": "paraphrased", "source": "gov", "question": "十五五规划里双一流大学本科生要多招多少人？", "anchor": "本科招生数增加10万人以上", "answer_keys": ["10万人"], "note": "R06 复述"}
+{"qid": "P19", "stratum": "paraphrased", "source": "gov", "question": "央企把小区移交给地方的时候，中央财政帮忙出几成？", "anchor": "分离移交费用由中央财政（国有资本经营预算）补助50%", "answer_keys": ["50%"], "note": "R15 复述"}
+{"qid": "P20", "stratum": "paraphrased", "source": "book", "question": "《西游记》开头那一回的标题是什么？", "anchor": "灵根育孕源流出", "answer_keys": ["灵根育孕源流出"], "note": "R23 复述"}
+{"qid": "O01", "stratum": "out-of-scope", "source": "-", "question": "大理大学2026年寒假什么时候开始放假？", "absent_keys": ["大理大学"], "note": "高校校历不在语料"}
+{"qid": "O02", "stratum": "out-of-scope", "source": "-", "question": "《平凡的世界》主要讲了什么故事？", "absent_keys": ["平凡的世界"], "note": "书目不在语料"}
+{"qid": "O03", "stratum": "out-of-scope", "source": "-", "question": "2026年城乡居民医保个人缴费标准是每人每年多少钱？", "absent_keys": ["城乡居民医保"], "note": "医保缴费标准不在语料"}
+{"qid": "O04", "stratum": "out-of-scope", "source": "-", "question": "事业单位教师退休金具体是怎么计算的？", "absent_keys": ["退休金"], "note": "退休金计算不在语料"}
+{"qid": "O05", "stratum": "out-of-scope", "source": "-", "question": "学校食堂的饭菜价格执行什么标准？", "absent_keys": ["食堂"], "note": "食堂价格不在语料"}
+{"qid": "O06", "stratum": "out-of-scope", "source": "-", "question": "1994年版《三国演义》电视剧总导演是谁？", "absent_keys": ["总导演"], "note": "影视信息不在语料"}
+{"qid": "O07", "stratum": "out-of-scope", "source": "-", "question": "现在个人所得税的起征点是每月多少元？", "absent_keys": ["个人所得税"], "note": "个税起征点不在语料"}
+{"qid": "O08", "stratum": "out-of-scope", "source": "-", "question": "2026年下半年大学英语四六级考试什么时候报名？", "absent_keys": ["四六级"], "note": "考试报名不在语料"}
+{"qid": "O09", "stratum": "out-of-scope", "source": "-", "question": "苍山索道和洱海游船的门票价格分别是多少？", "absent_keys": ["苍山", "索道"], "note": "本地旅游价格不在语料"}
+{"qid": "O10", "stratum": "out-of-scope", "source": "-", "question": "研究生国家奖学金的金额是每生每年多少元？", "absent_keys": ["国家奖学金"], "note": "奖学金额度不在语料"}
+{"qid": "O11", "stratum": "out-of-scope", "source": "-", "question": "87版《红楼梦》电视剧里林黛玉的扮演者是谁？", "absent_keys": ["扮演者"], "note": "影视信息不在语料"}
+{"qid": "O12", "stratum": "out-of-scope", "source": "-", "question": "2026年全国高考报名人数是多少？", "absent_keys": ["高考报名"], "note": "高考数据不在语料"}
+{"qid": "O13", "stratum": "out-of-scope", "source": "-", "question": "现在首套房商业贷款利率是多少？", "absent_keys": ["贷款利率"], "note": "贷款利率不在语料"}
+{"qid": "O14", "stratum": "out-of-scope", "source": "-", "question": "办护照需要多少个工作日？", "absent_keys": ["护照"], "note": "护照办理不在语料"}
+{"qid": "O15", "stratum": "out-of-scope", "source": "-", "question": "毛宗岗评本《三国演义》与嘉靖壬午本在文字上有哪些主要差异？", "absent_keys": ["毛宗岗"], "note": "版本学内容不在语料"}
+{"qid": "O16", "stratum": "out-of-scope", "source": "-", "question": "2026年春节是公历几月几号？", "absent_keys": ["2026年春节"], "note": "历法信息不在语料"}
+{"qid": "O17", "stratum": "out-of-scope", "source": "-", "question": "美国2025年国内生产总值是多少万亿美元？", "absent_keys": ["美国国内生产总值"], "note": "外国GDP不在语料"}
+{"qid": "O18", "stratum": "out-of-scope", "source": "-", "question": "怎样申请国家自然科学基金青年项目？", "absent_keys": ["自然科学基金"], "note": "科研基金申请不在语料"}
+{"qid": "O19", "stratum": "out-of-scope", "source": "-", "question": "洱海边自行车租赁一天多少钱？", "absent_keys": ["租赁"], "note": "本地租赁价格不在语料"}
+{"qid": "O20", "stratum": "out-of-scope", "source": "-", "question": "金圣叹批评本《水浒传》与容与堂百回本相比删掉了哪些内容？", "absent_keys": ["金圣叹"], "note": "版本比较不在语料"}
+{"qid": "D01", "stratum": "diagnostic", "source": "stats", "question": "全国房地产开发投资是多少亿元？", "anchor": "82788", "answer_keys": ["82788"], "note": "跨年版本混淆测试：2022-2025四份公报均有该指标"}
+{"qid": "D02", "stratum": "diagnostic", "source": "stats", "question": "铁路货物运输总量是多少亿吨？", "anchor": "52.8", "answer_keys": ["52.8"], "note": "跨年版本混淆测试"}
+{"qid": "D03", "stratum": "diagnostic", "source": "stats", "question": "货物运输总量是多少亿吨？", "anchor": "596.7", "answer_keys": ["596.7"], "note": "跨年版本混淆测试"}
+{"qid": "D04", "stratum": "diagnostic", "source": "gov", "question": "住房公积金的缴存比例是怎么规定的？", "anchor": "缴存比例均不得低于职工上一年度月平均工资的5%", "answer_keys": ["5%"], "note": "同主题多文件"}
+{"qid": "D05", "stratum": "diagnostic", "source": "gov", "question": "义务教育巩固率的目标是多少？", "anchor": "到2020年，全国义务教育巩固率达到95%", "answer_keys": ["95%"], "note": "同主题多文件"}
